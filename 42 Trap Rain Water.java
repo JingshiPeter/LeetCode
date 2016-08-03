@@ -1,3 +1,4 @@
+// https://leetcode.com/problems/trapping-rain-water/
 public class Solution {
     public int trap(int[] height) {
         if(height.length == 0) return 0;
