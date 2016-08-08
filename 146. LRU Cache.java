@@ -1,3 +1,5 @@
+//https://leetcode.com/problems/lru-cache/
+
 public class LRUCache {
     int capacity;
     HashMap<Integer, Node> map = new HashMap<Integer, Node>();
